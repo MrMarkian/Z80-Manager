@@ -15,6 +15,6 @@ Press S to enter single step mode, then T to toggle the clock pin on and off.
 
 # Future Updates:
 
-1. Implement data transfer to the shift register for uploading code directly to the SRAM attached to the Z80, thus bypassing the need for a EEPROM.
-2. Ability to read the contents of SRAM, using the shift register for memory addressing and connecting the Z80 cpu's data lines to a free 8bit Port on the TM4C123G
-3. Copy out the terminal controller and setup code into a seperate project and develop a full VT100 terminal class.
+- [ ] 1. Implement data transfer to the shift register for uploading code directly to the SRAM attached to the Z80, thus bypassing the need for a EEPROM.
+- [ ] 2. Ability to read the contents of SRAM, using the shift register for memory addressing and connecting the Z80 cpu's data lines to a free 8bit Port on the TM4C123G
+- [ ] 3. Copy out the terminal controller and setup code into a seperate project and develop a full VT100 terminal class.
