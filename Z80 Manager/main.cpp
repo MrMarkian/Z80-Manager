@@ -132,13 +132,13 @@ public:
     tm.SendNewline();
     tm.SetColor(33);
     PrintString("Please Pick an option..");
-
+/*
     for (uint8_t a = 0; a < 256; a++)
     {
     putByte(a,1);
     }
     tm.SendNewline();
-
+*/
     //while (1) {
     //if (UARTCharsAvail(UART0_BASE)) UARTCharPut(UART0_BASE, UARTCharGet(UART0_BASE)); }
 
